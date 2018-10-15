@@ -33,6 +33,8 @@ componentDidUpdate(){
       <div>
         <h1>Enfin le timer est là !!</h1>
         <h2>It is {this.state.date.toLocaleTimeString()}.</h2>
+        <img src="https://www.syfy.com/sites/syfy/files/styles/syfy_cast_detail_normal_wide_1x/public/cast_futurama_proffarnsworth.jpg?itok=xQHAlhRl&timestamp=1508358104" alt="prof"/>
+        <p> Hurry Up now !</p>
       </div>
     )
   }
